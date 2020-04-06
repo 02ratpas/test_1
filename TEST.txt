@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Version4
 Inhalt...
 Neue Zeile
+=======
+Version2
+Inhalt...
+>>>>>>> Version2
